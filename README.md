@@ -17,7 +17,6 @@ Error Reduction: Reduces manual entry errors by 95% compared to human average.
 Time Savings: Saves ~5 hours/week per analyst in data processing.
 Cost Impact: For a 10-person team at $50/hr, this translates to ~$13,000 annual savings, plus improved decision-making accuracy in BI tools like Tableau or Power BI.
 
-<image-card alt="Alternative text for the image" src="features_importance.png" ></image-card>
 
 ## Installation
 Install dependencies:
