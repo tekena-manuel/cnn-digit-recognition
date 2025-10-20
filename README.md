@@ -5,11 +5,6 @@ The purpose of this project was to build a CNN to classify handwritten digits fr
 ## Dataset
 MNIST dataset (built into TensorFlow/Keras): 60,000 training images, 10,000 test images of 28x28 grayscale digits (0-9).
 
-## Installation
-Install dependencies:
-```bash
-pip install tensorflow matplotlib scikit-learn seaborn numpy
-
 ## Results/Conclusion
 Training: The model was trained for 5 epochs with a batch size of 128, reaching ~99% validation accuracy.
 Evaluation: Test accuracy: ~0.99 (e.g., 0.9912 in a typical run).
@@ -21,3 +16,10 @@ The primary goal was to apply AI to BI scenarios. This CNN automates digit recog
 Error Reduction: Reduces manual entry errors by 95% compared to human average.
 Time Savings: Saves ~5 hours/week per analyst in data processing.
 Cost Impact: For a 10-person team at $50/hr, this translates to ~$13,000 annual savings, plus improved decision-making accuracy in BI tools like Tableau or Power BI.
+
+
+## Installation
+Install dependencies:
+```bash
+pip install tensorflow matplotlib scikit-learn seaborn numpy
+
